@@ -1,0 +1,2 @@
+# qr-code-generator
+A PYTHON PROJECT THAT GENERATE S QR CODE
